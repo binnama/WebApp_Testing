@@ -1,68 +1,80 @@
 "questions": [
   {
-    "title": "",
+    "title": "Hva kan brukes for å effektivisere tester som henter data fra et API?",
     "answers": [
       {
-        "answer": "Alt 1"
+        "answer": "Slett deler av koden som gjør testen treg"
       },
       {
-        "answer": "Alt 1"
+        "answer": "Bruk 'await' og 'async' i testen"
       },
       {
-        "answer": "Alt 1"
+        "answer": "Ingen ting å gjøre noe med. Bare å vente"
       },
       {
-        "answer": "Alt 1",
+        "answer": "Ta i bruk mock, spies eller fakes",
         "correci": true
       }
     ],
-    "title": "",
+    "hjelper": {
+      "text": "Tenk at du skal jukse i testen"
+    },
+    "title": "Hvilken av disse kommer IKKE fra react-testing-library ",
     "answers": [
       {
-        "answer": "Alt 1"
+        "answer": "`toHaveAccessibleDescription`"
       },
       {
-        "answer": "Alt 1"
+        "answer": "`getAllByTitle`"
       },
       {:
-        "answer": "Alt 1"
+        "answer": "`toBeRequired`"
       },
       {
-        "answer": "Alt 1",
+        "answer": "`getBySubmit`",
         "correci": true
       }
     ],
-    "title": "",
+    "hjelper": {
+      "text": "SKRIV LITT JUKS om react test library"
+    },
+    "title": "Hva er riktig om testing av hooks?",
     "answers": [
       {
-        "answer": "Alt 1"
+        "answer": "Det går an å teste `children`-elementer i en wrapper"
       },
       {
-        "answer": "Alt 1"
+        "answer": "Er som å teste en vanlig JavaScript-funksjon, med noen ekstra steg"
       },
       {
-        "answer": "Alt 1"
+        "answer": "`act` brukes for å kalle funksjonen som kommer fra hooken"
       },
       {
-        "answer": "Alt 1",
+        "answer": "Alle over er korrekt",
         "correci": true
       }
     ],
-    "title": "",
+    "hjelper": {
+      "text": "Hjelpetext"
+    },
+    "title": "Hva kjennetegner en async-test?",
     "answers": [
       {
-        "answer": "Alt 1"
+        "answer": "Testene er ofte svært lange og tunge å lese"
       },
       {
-        "answer": "Alt 1"
+        "answer": "Den er dårlig dokumentert. Ingen aner hvordan de skal brukes."
       },
       {
-        "answer": "Alt 1"
+        "answer": "Den er utrolig rask"
       },
       {
-        "answer": "Alt 1",
+        "answer": "Den bruker enten Callback eller Promise",
         "correci": true
       }
-    ]
+    ],
+    "hjelper": {
+      "text": "Hjelpetext"
+    }
   }
 ]
