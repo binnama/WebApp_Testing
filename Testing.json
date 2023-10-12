@@ -36,7 +36,7 @@
       }
     ],
     "hjelper": {
-      "text": "SKRIV LITT JUKS om react test library"
+      "text": "Ta en titt hos React Testing Library for å lese om rammeverket: https://testing-library/docs/react-testing-library/intro"
     },
     "title": "Hva er riktig om testing av hooks?",
     "answers": [
@@ -55,7 +55,7 @@
       }
     ],
     "hjelper": {
-      "text": "Hjelpetext"
+      "text": "Hva er de største forskjellene når en hook skal testes, kontra en vanlig funksjon?"
     },
     "title": "Hva kjennetegner en async-test?",
     "answers": [
@@ -74,7 +74,7 @@
       }
     ],
     "hjelper": {
-      "text": "Hjelpetext"
+      "text": "Tenk på hva som gjør en async funksjon unik. Kan det være noen likheter med test, mon tro."
     }
   }
 ]
